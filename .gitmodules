@@ -1,3 +1,6 @@
 [submodule "adopet-api"]
 	path = adopet-api
 	url = https://github.com/ocartaxo/kopet.git
+[submodule "komilles-api"]
+	path = komilles-api
+	url = https://github.com/ocartaxo/komilles.git
